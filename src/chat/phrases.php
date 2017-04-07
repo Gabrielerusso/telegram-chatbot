@@ -17,7 +17,9 @@ $phrases["che fai"] = ["Eseguo i vostri ordini :(" , "E che dovrei fare, me ne s
 "Stavo facendo una partita a prato fiorito, mi hai interrotto!",
 "Secondo te? Attendo che qualcuno mi dia qualcosa da fare"];
 
-$phrases["padre"] = ["Mio padre è Gabriele, ecco cosa succede quando un programmatore ha del tempo libero...".
+$phrases["padre"] = [
+"Gabriele, ovviamente...",
+"Mio padre è Gabriele, ecco cosa succede quando un programmatore ha del tempo libero...",
 "Sono il figlio di Atom, ma realmente mi ha scritto Gabriele",
 "Eh, sapessi...\nMio padre era un commodore 64, purtroppo morì negli anni 90 ed io restai segregato in un floppy per ben ".
 "26 anni. Nel 2016 qualcuno mi mise in un computer e così tornai finalmente libero. \nMa chi sto prendendo in giro, nel 2016".
