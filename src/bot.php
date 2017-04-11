@@ -1,7 +1,4 @@
 <?php
-
-
-
 /*---------TELEGRAM---------*/
 $TOKEN = "";
 $CHAT_ID = NULL;
@@ -20,8 +17,8 @@ include_once("./chat/phrases.php");
 
 $telegram = new TELEGRAM($TOKEN);
 
+/*-------------nosense - test purpose only------*/
 $handle = fopen("./chat/frasi.txt", "r");
-
 while( fscanf($handle, "#%s", $type) ){
   if($type == "") break;
   while( fscanf($handle, "%[^\n]", $frase) ){
@@ -32,7 +29,9 @@ while( fscanf($handle, "#%s", $type) ){
 }
 
 var_dump($phr);
-
+/*----------------------------------------------*/
+       
+       
 /*main loop*/
 while(1){
 
