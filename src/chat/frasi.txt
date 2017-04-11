@@ -1,0 +1,14 @@
+#saluti
+  ciao #
+  hola #
+  ciao, come va? #
+  buongiornissimo
+  come va #
+
+#insulti
+  si bbabbiddiu #
+  si tuttu nnacchiu #
+  si bbabbu, loccu e cretinu #
+  testo di prova
+  su due righe;
+  con punto e virgola #
